@@ -1,2 +1,2 @@
 # backend_gql_api
-backend api grapkql para trabalho fullstack PUC-RJ
+backend api graphql 1o. contato não vou evoluir
